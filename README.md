@@ -4,8 +4,8 @@
 	- Daniel Vieira Batista 				RA: 11106614
 	- Isaias Alves da Silva  				RA: 11108611
 ## Links:
-	- Link do repositório git:  
-	- Link da aplicação no GitHub Pages:  
+	- Link do repositório git: https://github.com/isaiasalves/CG-ATV3/tree/master/examples/Labirinto-Dobra-Espacial
+	- Link da aplicação no GitHub Pages: https://isaiasalves.github.io/CG-ATV3/public/  
 ## Aplicação
 	- Desenvolvemos uma aplicação 3D baseada no Screensaver "Maze" do Windows 95.
 
