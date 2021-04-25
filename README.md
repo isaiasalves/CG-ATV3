@@ -10,7 +10,7 @@
 	- Desenvolvemos uma aplicação 3D baseada no Screensaver "Maze" do Windows 95.
 
 	- Para o desenvolvimento deste projeto utilou-se os seguintes conceitos vistos em aula:
-	    	Movimento de câmera
+		Movimento de câmera
       		Iluminação
       		Utilização de texturas
       		Trackball virtual
