@@ -11,10 +11,10 @@
 
 	- Para o desenvolvimento deste projeto utilou-se os seguintes conceitos vistos em aula:
 		Movimento de câmera
-      		Iluminação
-      		Utilização de texturas
-      		Trackball virtual
-      		Modelos 3D
+      	Iluminação
+      	Utilização de texturas
+      	Trackball virtual
+      	Modelos 3D
     
 ## Controles
 	- Através das teclas W, A, S, D, Q e E. É possível alterar as coordenadas da câmera dando o efeito de movimentação em primeira pessoa.
