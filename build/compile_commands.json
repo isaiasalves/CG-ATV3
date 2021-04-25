@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_application.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/abcg_application.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/abcg_application.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_elapsedtimer.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/abcg_elapsedtimer.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/abcg_elapsedtimer.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_exception.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/abcg_exception.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/abcg_exception.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_image.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/abcg_image.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/abcg_image.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_openglfunctions.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/abcg_openglfunctions.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/abcg_openglfunctions.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_openglwindow.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/abcg_openglwindow.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/abcg_openglwindow.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_string.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/abcg_string.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/abcg_string.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/abcg.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -sSDL2_IMAGE_FORMATS='[\"jpg\",\"png\"]' -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/abcg.dir/abcg_trackball.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/abcg_trackball.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/abcg_trackball.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg/external/imgui",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg/external/imgui",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_demo.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg/external/imgui",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_draw.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg/external/imgui",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_widgets.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg/external/imgui",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_impl_sdl.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_impl_sdl.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_impl_sdl.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg/external/imgui",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/imgui.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -s USE_SDL=2 -o CMakeFiles/imgui.dir/imgui_impl_opengl3.cpp.o -c /home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/external/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/abcg/external/fmt",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/fmt.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -o CMakeFiles/fmt.dir/format.cc.o -c /home/zell/Documents/CG/Season3/abcg/abcg/external/fmt/format.cc",
+  "file": "/home/zell/Documents/CG/Season3/abcg/abcg/external/fmt/format.cc"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/examples/Labirinto-Dobra-Espacial",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/dobra-espacial.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/dobra-espacial.dir/camera.cpp.o -c /home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/camera.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/camera.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/examples/Labirinto-Dobra-Espacial",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/dobra-espacial.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/dobra-espacial.dir/main.cpp.o -c /home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/main.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/main.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/examples/Labirinto-Dobra-Espacial",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/dobra-espacial.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/dobra-espacial.dir/model.cpp.o -c /home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/model.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/model.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/examples/Labirinto-Dobra-Espacial",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/dobra-espacial.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/dobra-espacial.dir/openglwindow.cpp.o -c /home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/openglwindow.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/openglwindow.cpp"
+},
+{
+  "directory": "/home/zell/Documents/CG/Season3/abcg/build/examples/Labirinto-Dobra-Espacial",
+  "command": "/home/zell/Documents/CG/emsdk/upstream/emscripten/em++   @CMakeFiles/dobra-espacial.dir/includes_CXX.rsp -O3 -DNDEBUG -flto=thin   -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -o CMakeFiles/dobra-espacial.dir/trackball.cpp.o -c /home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/trackball.cpp",
+  "file": "/home/zell/Documents/CG/Season3/abcg/examples/Labirinto-Dobra-Espacial/trackball.cpp"
+}
+]

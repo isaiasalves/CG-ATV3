@@ -1,0 +1,15 @@
+newmtl Maze
+Kd 1.000000 1.000000 1.000000
+Ka 0.700000 0.700000 0.700000
+Ks 0.100000 0.100000 0.100000
+illum 10.000000
+Tf 1.000000 1.000000 1.000000
+Tr 10.000000
+Ns 15.000000
+Ni 5.000000
+map_Ka text_black.jpg
+map_Kd text_black.jpg
+map_Ks text_black_ssm.jpg
+map_bump text_black_nor.jpg
+bump text_black_bump.jpg
+

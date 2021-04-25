@@ -1,0 +1,2 @@
+"/home/zell/Documents/CG/emsdk/upstream/emscripten/emar" cr libfoo.a  CMakeFiles/foo.dir/foo.c.o
+"/home/zell/Documents/CG/emsdk/upstream/emscripten/emranlib" libfoo.a
