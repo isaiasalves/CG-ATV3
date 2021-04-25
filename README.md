@@ -17,5 +17,5 @@
       	Modelos 3D
     
 ## Controles
-	- Através das teclas W, A, S, D, Q e E e ← ↑ → . É possível alterar as coordenadas da câmera dando o efeito de movimentação em primeira pessoa.
+	- Através das teclas W, A, S, D, Q, E e ← ↑ → . É possível alterar as coordenadas da câmera dando o efeito de movimentação em primeira pessoa.
 
