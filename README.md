@@ -1,11 +1,21 @@
-# ABCg
+# Atividade 3 - Computação Gráfica
 
-Development framework accompanying the course [MCTA008-17 Computer Graphics](http://professor.ufabc.edu.br/~harlen.batagelo/cg/) at [UFABC](https://www.ufabc.edu.br/).
+## Alunos
+	- Daniel Vieira Batista 				RA 11106614
+	- Isaias Alves da Silva  				RA: 11108611
+## Links:
+	- Link do repositório git:  
+	- Link da aplicação no GitHub Pages:  
+## Aplicação
+	- Desenvolvemos uma aplicação 3D baseada no Screensaver "Maze" do Windows 95.
 
-## Author
+	- Para o desenvolvimento deste projeto utilou-se os seguintes conceitos vistos em aula:
+	    Movimento de câmera
+      Iluminação
+      Utilização de texturas
+      Trackball virtual
+      Modelos 3D
+    
+## Controles
+	- Através das teclas W, A, S, D, Q e E. É possível direcionar a camera dando o efeito de interação em primeira pessoa.
 
-Harlen Batagelo
-
-## License
-
-MIT
